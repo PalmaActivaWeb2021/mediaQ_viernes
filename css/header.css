@@ -7,7 +7,7 @@
     border-bottom-left-radius: 100px;
     border-bottom-right-radius: 100px;
     /* Ancho de la imagen siempre sea igual al ancho del dispositivo */
-    width: 100vw;
+    width: 100%;
 }
 
 /* Logotipo */
